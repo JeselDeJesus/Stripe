@@ -1,0 +1,9 @@
+{
+    "name": "user/stripe",
+    "autoload": {
+        "psr-4": {
+            "User\\Stripe\\": "src/"
+        }
+    },
+    "require": {}
+}
